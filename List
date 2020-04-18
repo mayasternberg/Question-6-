@@ -1,0 +1,4 @@
+numbers= [5, 10, 12, 15, 18, 25, 29, 31, 50]
+for number in numbers:
+ if number % 5 == 0: 
+  print number 
